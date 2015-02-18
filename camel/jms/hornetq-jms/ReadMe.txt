@@ -1,4 +1,4 @@
-Camel Router Spring Project
+Camel Hornetq - Router Spring Project
 ===========================
 
 To build this project use
